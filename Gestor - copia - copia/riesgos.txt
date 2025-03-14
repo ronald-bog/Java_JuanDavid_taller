@@ -1,0 +1,25 @@
+123 - Luis García - Bogotá
+Cuentas bancarias
+Cuenta de ahorros - Bancolombia - MasterCard
+Cuenta de ahorros - Davivienda - Visa
+Reporte: 890 - excelente
+#
+456 - Alejandra Estrada - Bogotá
+Cuentas bancarias
+Cuenta de ahorros - Bancolombia - MasterCard
+Cuenta corriente - Davivienda - MasterCard
+Tarjeta de crédito - BBVA - American Express
+Reporte: 340 - regular
+#
+789 - Ernesto Villamil - Medellín
+Cuentas bancarias
+Cuenta de ahorros - Davivienda - 
+Tarjeta de crédito - Davivienda - Visa
+Reporte: 900 - excelente
+#
+1011 - Luisa Mejia - Medellín
+Cuentas bancarias
+Cuenta corriente - BBVA - 
+Tarjeta de crédito - BBVA - MasterCard
+Reporte: 340 - regular
+#
